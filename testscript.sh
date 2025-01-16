@@ -8,4 +8,3 @@ kp=`date +%d.%m.%y`
 
 echo "Nimi on $nimi"
 echo "Täna on $kp"
-echo
